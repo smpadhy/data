@@ -1,7 +1,8 @@
 {
 	"painting": [
 		{
-			"@type": "Painting"
+			"@type": "Painting",
+			"name": "Index"
 		}
 	]
 }
